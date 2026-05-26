@@ -76,6 +76,6 @@ document.addEventListener("DOMContentLoaded", () => {
     setTimeout(() => {
       loveLetter.classList.remove("hidden");
       launchConfetti();
-    }, 20000);
+    }, 60000);
   });
 });
