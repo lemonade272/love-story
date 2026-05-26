@@ -108,7 +108,7 @@ font-weight: bold;
   position: absolute;
   bottom: -100%;
   text-align: center;
-  animation: creditScroll 20s linear forwards;
+  animation: creditScroll 60s linear forwards;
  
   line-height: 2.2em;
   font-size: 1.2em;
